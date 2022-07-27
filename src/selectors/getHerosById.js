@@ -1,7 +1,11 @@
 
 import { heroes } from '../data/heroes';
 
-const getHeroesByPublisher = ({ id }) => {
-    return heroes.filter( hero => heroes.id == id )[0];
+const getHeroesById = ( id ) => {
+
+    return heroes.find( hero => hero.id == id );
 
 }
+
+
+export default getHeroesById;
