@@ -23,7 +23,6 @@ export const SearchScreen = () => {
 
     const handleSubmit = ( event ) => {
       event.preventDefault();
-      console.log('HOLA')
       navigate(`?q=${searchText}`);
     }
 
