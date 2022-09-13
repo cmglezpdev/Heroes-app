@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests about navbar should show it correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="navbar navbar-expand-sm navbar-dark bg-dark"
+      >
+        <a
+          class="navbar-brand"
+          href="/"
+        >
+          Asociaciones
+        </a>
+        <div
+          class="navbar-collapse"
+        >
+          <div
+            class="navbar-nav"
+          >
+            <a
+              class="nav-item nav-link "
+              href="/marvel"
+            >
+              Marvel
+            </a>
+            <a
+              class="nav-item nav-link "
+              href="/dc"
+            >
+              DC
+            </a>
+            <a
+              class="nav-item nav-link "
+              href="/search"
+            >
+              Search
+            </a>
+          </div>
+        </div>
+        <div
+          class="navbar-collapse collapse w-100 order-3 dual-collapse2 d-flex justify-content-end"
+        >
+          <ul
+            class="navbar-nav ml-auto"
+          >
+            <span
+              class="nav-link nav-item text-info"
+            >
+              Carlos Manuel
+            </span>
+            <button
+              class="nav-item nav-link btn"
+            >
+              Logout
+            </button>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar navbar-expand-sm navbar-dark bg-dark"
+    >
+      <a
+        class="navbar-brand"
+        href="/"
+      >
+        Asociaciones
+      </a>
+      <div
+        class="navbar-collapse"
+      >
+        <div
+          class="navbar-nav"
+        >
+          <a
+            class="nav-item nav-link "
+            href="/marvel"
+          >
+            Marvel
+          </a>
+          <a
+            class="nav-item nav-link "
+            href="/dc"
+          >
+            DC
+          </a>
+          <a
+            class="nav-item nav-link "
+            href="/search"
+          >
+            Search
+          </a>
+        </div>
+      </div>
+      <div
+        class="navbar-collapse collapse w-100 order-3 dual-collapse2 d-flex justify-content-end"
+      >
+        <ul
+          class="navbar-nav ml-auto"
+        >
+          <span
+            class="nav-link nav-item text-info"
+          >
+            Carlos Manuel
+          </span>
+          <button
+            class="nav-item nav-link btn"
+          >
+            Logout
+          </button>
+        </ul>
+      </div>
+    </nav>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
