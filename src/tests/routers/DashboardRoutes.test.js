@@ -1,5 +1,5 @@
 /* eslint-disable testing-library/prefer-screen-queries */
-import { render, screen, getByText } from '@testing-library/react'
+import { render, screen } from '@testing-library/react'
 import { DashboardRoutes } from '../../routers/DashboardRoutes';
 import { AuthContext } from '../../auth/authContext';
 import { MemoryRouter } from 'react-router-dom';
