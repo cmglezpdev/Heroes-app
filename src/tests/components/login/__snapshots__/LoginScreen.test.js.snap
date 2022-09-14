@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests about LoginScreen should show it correctly 1`] = `
+<div>
+  <div
+    class="container mt-5"
+  >
+    <h1>
+      Login
+    </h1>
+    <hr />
+    <button
+      class="btn btn-primary"
+    >
+      Login
+    </button>
+  </div>
+</div>
+`;

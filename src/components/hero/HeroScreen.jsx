@@ -13,7 +13,7 @@ export const HeroScreen = () => {
 
 
   const imgPath = `/assets/${hero.id}.jpg`;
-  const { superhero, alter_ego, id, publisher, first_appearance, characters } = hero;
+  const { superhero, alter_ego, publisher, first_appearance, characters } = hero;
 
 
   const handleReturn = () => {

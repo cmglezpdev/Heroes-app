@@ -4,7 +4,7 @@ import { heroes } from '../data/heroes';
 const getHeroByName = ( name = '' ) => {
 
     let result = [];
-    if( name == '' ) return result;
+    if( name === '' ) return result;
 
     heroes.forEach(hero => {
         const { superhero, publisher, alter_ego, first_appearance, characters } = hero;

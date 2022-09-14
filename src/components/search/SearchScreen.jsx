@@ -24,8 +24,6 @@ export const SearchScreen = () => {
     const handleSubmit = ( event ) => {
       event.preventDefault();
       navigate(`?q=${searchText}`);
-  
-      
     }
 
   
@@ -68,7 +66,7 @@ export const SearchScreen = () => {
             {
               (q === '') 
               ? <div className="alert alert-info">Buscar un heroe</div>
-              : (heroesFiltered.length == 0)
+              : (heroesFiltered.length === 0)
                   && <div className="alert alert-danger">No hay resultados de: { q }</div>
             }
 

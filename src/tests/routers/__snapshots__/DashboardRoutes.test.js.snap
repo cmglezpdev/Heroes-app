@@ -1,0 +1,1051 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests abput DashboardRoutes should show correctly the dc compoments 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-sm navbar-dark bg-dark"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      Asociaciones
+    </a>
+    <div
+      class="navbar-collapse"
+    >
+      <div
+        class="navbar-nav"
+      >
+        <a
+          class="nav-item nav-link "
+          href="/marvel"
+        >
+          Marvel
+        </a>
+        <a
+          aria-current="page"
+          class="nav-item nav-link active"
+          href="/dc"
+        >
+          DC
+        </a>
+        <a
+          class="nav-item nav-link "
+          href="/search"
+        >
+          Search
+        </a>
+      </div>
+    </div>
+    <div
+      class="navbar-collapse collapse w-100 order-3 dual-collapse2 d-flex justify-content-end"
+    >
+      <ul
+        class="navbar-nav ml-auto"
+      >
+        <span
+          class="nav-link nav-item text-info"
+        >
+          Carlos Manuel
+        </span>
+        <button
+          class="nav-item nav-link btn"
+        >
+          Logout
+        </button>
+      </ul>
+    </div>
+  </nav>
+  <div
+    class="container"
+  >
+    <div>
+      <h1>
+        DC Comics
+      </h1>
+      <div
+        class="row rows-cols-1 row-cols-md-3 g-3 animate__animated animate__fadeIn"
+      >
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Batman"
+                  class="card-img"
+                  src="/assets/dc-batman.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Batman
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Bruce Wayne
+                  </p>
+                  <a
+                    href="/hero/dc-batman"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Superman"
+                  class="card-img"
+                  src="/assets/dc-superman.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Superman
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Kal-El
+                  </p>
+                  <a
+                    href="/hero/dc-superman"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Flash"
+                  class="card-img"
+                  src="/assets/dc-flash.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Flash
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Jay Garrick
+                  </p>
+                  <p
+                    class="text-muted"
+                  >
+                    Jay Garrick, Barry Allen, Wally West, Bart Allen
+                  </p>
+                  <a
+                    href="/hero/dc-flash"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Green Lantern"
+                  class="card-img"
+                  src="/assets/dc-green.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Green Lantern
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Alan Scott
+                  </p>
+                  <p
+                    class="text-muted"
+                  >
+                    Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz
+                  </p>
+                  <a
+                    href="/hero/dc-green"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Green Arrow"
+                  class="card-img"
+                  src="/assets/dc-arrow.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Green Arrow
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Oliver Queen
+                  </p>
+                  <a
+                    href="/hero/dc-arrow"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Wonder Woman"
+                  class="card-img"
+                  src="/assets/dc-wonder.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Wonder Woman
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Princess Diana
+                  </p>
+                  <a
+                    href="/hero/dc-wonder"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Martian Manhunter"
+                  class="card-img"
+                  src="/assets/dc-martian.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Martian Manhunter
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    J'onn J'onzz
+                  </p>
+                  <p
+                    class="text-muted"
+                  >
+                    Martian Manhunter
+                  </p>
+                  <a
+                    href="/hero/dc-martian"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Robin/Nightwing"
+                  class="card-img"
+                  src="/assets/dc-robin.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Robin/Nightwing
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Dick Grayson
+                  </p>
+                  <a
+                    href="/hero/dc-robin"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Blue Beetle"
+                  class="card-img"
+                  src="/assets/dc-blue.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Blue Beetle
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Dan Garret
+                  </p>
+                  <p
+                    class="text-muted"
+                  >
+                    Dan Garret, Ted Kord, Jaime Reyes
+                  </p>
+                  <a
+                    href="/hero/dc-blue"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Black Canary"
+                  class="card-img"
+                  src="/assets/dc-black.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Black Canary
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Dinah Drake
+                  </p>
+                  <p
+                    class="text-muted"
+                  >
+                    Dinah Drake, Dinah Lance
+                  </p>
+                  <a
+                    href="/hero/dc-black"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tests abput DashboardRoutes should show correctly the marvel compoments 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-sm navbar-dark bg-dark"
+  >
+    <a
+      class="navbar-brand"
+      href="/"
+    >
+      Asociaciones
+    </a>
+    <div
+      class="navbar-collapse"
+    >
+      <div
+        class="navbar-nav"
+      >
+        <a
+          class="nav-item nav-link "
+          href="/marvel"
+        >
+          Marvel
+        </a>
+        <a
+          class="nav-item nav-link "
+          href="/dc"
+        >
+          DC
+        </a>
+        <a
+          class="nav-item nav-link "
+          href="/search"
+        >
+          Search
+        </a>
+      </div>
+    </div>
+    <div
+      class="navbar-collapse collapse w-100 order-3 dual-collapse2 d-flex justify-content-end"
+    >
+      <ul
+        class="navbar-nav ml-auto"
+      >
+        <span
+          class="nav-link nav-item text-info"
+        >
+          Carlos Manuel
+        </span>
+        <button
+          class="nav-item nav-link btn"
+        >
+          Logout
+        </button>
+      </ul>
+    </div>
+  </nav>
+  <div
+    class="container"
+  >
+    <div>
+      <h1>
+        Marvel Comics
+      </h1>
+      <div
+        class="row rows-cols-1 row-cols-md-3 g-3 animate__animated animate__fadeIn"
+      >
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Spider Man"
+                  class="card-img"
+                  src="/assets/marvel-spider.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Spider Man
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Peter Parker
+                  </p>
+                  <a
+                    href="/hero/marvel-spider"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Captain America"
+                  class="card-img"
+                  src="/assets/marvel-captain.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Captain America
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Steve Rogers
+                  </p>
+                  <a
+                    href="/hero/marvel-captain"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Iron Man"
+                  class="card-img"
+                  src="/assets/marvel-iron.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Iron Man
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Tony Stark
+                  </p>
+                  <a
+                    href="/hero/marvel-iron"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Thor"
+                  class="card-img"
+                  src="/assets/marvel-thor.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Thor
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Thor Odinson
+                  </p>
+                  <a
+                    href="/hero/marvel-thor"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Hulk"
+                  class="card-img"
+                  src="/assets/marvel-hulk.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Hulk
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Bruce Banner
+                  </p>
+                  <a
+                    href="/hero/marvel-hulk"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Wolverine"
+                  class="card-img"
+                  src="/assets/marvel-wolverine.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Wolverine
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    James Howlett
+                  </p>
+                  <a
+                    href="/hero/marvel-wolverine"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Daredevil"
+                  class="card-img"
+                  src="/assets/marvel-daredevil.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Daredevil
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Matthew Michael Murdock
+                  </p>
+                  <a
+                    href="/hero/marvel-daredevil"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Hawkeye"
+                  class="card-img"
+                  src="/assets/marvel-hawkeye.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Hawkeye
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Clinton Francis Barton
+                  </p>
+                  <a
+                    href="/hero/marvel-hawkeye"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Cyclops"
+                  class="card-img"
+                  src="/assets/marvel-cyclops.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Cyclops
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Scott Summers
+                  </p>
+                  <a
+                    href="/hero/marvel-cyclops"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col animate__animated animate__fadeIn"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="row no-gutters"
+            >
+              <div
+                class="col-md-4"
+              >
+                <img
+                  alt="Silver Surfer"
+                  class="card-img"
+                  src="/assets/marvel-silver.jpg"
+                />
+              </div>
+              <div
+                class="col-8"
+              >
+                <div
+                  class="card-body"
+                >
+                  <h5
+                    class="card-title"
+                  >
+                    Silver Surfer
+                  </h5>
+                  <p
+                    class="card-text"
+                  >
+                    Norrin Radd
+                  </p>
+                  <a
+                    href="/hero/marvel-silver"
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
